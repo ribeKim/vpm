@@ -11,8 +11,5 @@
     "url": "https://github.com/ribeKim/vpm",
     "text": "View on GitHub"
   },
-  "bannerUrl": "banner.png",
-  "githubRepos": [
-    "ribeKim/UnityAnimTool"
-  ]
+  "bannerUrl": "banner.png"
 }
